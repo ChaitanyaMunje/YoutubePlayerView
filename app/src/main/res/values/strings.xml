@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoutubePlayerView</string>
+    <string name="play_youtube_video">Play Youtube Video</string>
+</resources>
